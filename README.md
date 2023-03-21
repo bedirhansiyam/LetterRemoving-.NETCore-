@@ -1,5 +1,5 @@
 # Letter Removing - .Net Core
-In this application, the user enters a word and a number with commas between and the application removes the character in the given index from the word and prints it on the console.
+In this application, the user enters a word and a number with commas between and the application removes the character in the given index from the word and prints it to the console.
 </br>
 
 *Sample input: Mauritius,2 - Mauritius,0 - Mauritius,16* </br>
